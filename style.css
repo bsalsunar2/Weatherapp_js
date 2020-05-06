@@ -1,0 +1,10 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+body{background-image: url(./pc.jpg);background-size: cover; background-position: center; }
+.location-section{font-family: cursive; color: white; padding: 50px; display: flex;justify-content:center ; align-items: center;}
+.temperature-section{
+    width: 200px; margin: auto;color: white;  border: 2px solid wheat; box-shadow: 10px 10px 10px rgba(26, 22, 22, 0.877); 
+     font-family: cursive;padding: 50px; display: flex;justify-content:center ;
+      align-items: center;}
+.temperature-summary{ color: white;font-family: cursive;padding: 50px; display: flex;justify-content:center ; align-items: center;}
+.temperature-section{cursor: pointer;}
+.title{width:50%;color: white;text-align: center;padding: 6px;; margin: auto; font-family: cursive  ;}
